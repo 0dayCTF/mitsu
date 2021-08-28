@@ -19,3 +19,5 @@ DISCORD_TOKEN="discord_token"
 [@vocan](https://github.com/vocan) - Project creator, helper and motivator.
 </br>
 [@szymex73](https://github.com/szymex73) - Wrote most of the code.
+</br>
+[@0dayCTF](https://github.com/0dayCTF) - Was here
